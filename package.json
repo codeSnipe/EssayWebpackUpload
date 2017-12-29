@@ -1,7 +1,7 @@
 {
     "name": "essay-webpack-upload",
     "description": "支持HTTP的webpack上传组件",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "essay-webpack-upload",
         "email": "yanglei27@jd.com"
