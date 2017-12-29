@@ -33,7 +33,7 @@ new EssayWebpackUpload({
 ### 例子
 如：
 ```
-new JDWebpackUpload({
+new EssayWebpackUpload({
     host: 'userhost',
     port: 'userport',
     source: 'dist',

@@ -1,5 +1,5 @@
 {
-    "name": "eassy-webpack-upload",
+    "name": "essay-webpack-upload",
     "description": "支持HTTP的webpack上传组件",
     "version": "1.0.0",
     "author": {
