@@ -1,42 +1,42 @@
 {
-  "name": "jdfx",
-  "description": "京东前端自动化构建工具",
-  "version": "3.4.6",
-  "author": {
-    "name": "jdfx",
-    "email": "chenxiaochun@jd.com"
-  },
-  "homepage": "https://github.com/jdf2e/jdf",
-  "keywords": [
-    "jdf",
-    "jdfx",
-    "build tools",
-    "构建工具",
-    "tool",
-    "cli",
-    "front-end",
-    "fe"
-  ],
-  "license": "MIT",
-  "engines": {
-    "node": ">= 4.4.5"
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jdf2e/jdf.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jdf2e/jdf/issues"
-  },
-  "preferGlobal": true,
-  "readmeFilename": "README.md",
-  "dependencies": {
-    "fs": "0.0.1-security",
-    "glob": "^7.1.2",
-    "request": "^2.83.0"
-  }
+    "name": "eassy-webpack-upload",
+    "description": "支持HTTP的webpack上传组件",
+    "version": "1.0.0",
+    "author": {
+        "name": "essay-webpack-upload",
+        "email": "yanglei0825@163.com"
+    },
+    "homepage": "https://github.com/codeSnipe/EssayWebpackUpload",
+    "keywords": [
+        "webpack",
+        "upload",
+        "webpack upload",
+        "webpack上传插件",
+        "webpack上传",
+        "上传",
+        "front-end",
+        "fe"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">= 4.4.5"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codeSnipe/EssayWebpackUpload.git"
+    },
+    "bugs": {
+        "url": "https://github.com/codeSnipe/EssayWebpackUpload/issues"
+    },
+    "preferGlobal": true,
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "glob": "^7.1.2",
+        "request": "^2.83.0"
+    }
 }
