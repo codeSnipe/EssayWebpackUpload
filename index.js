@@ -3,7 +3,7 @@ const glob = require('glob');
 const request = require('request');
 
 
-function JDWebpackUpload(options) {
+function EssayWebpackUpload(options) {
     this.options = Object.assign(_default, options);
 }
 
@@ -71,4 +71,4 @@ var _default = {
     previewDir: "page.jd.com",
     cdnDir: "misc.360buyimg.com"
 }
-module.exports = JDWebpackUpload
+module.exports = EssayWebpackUpload
