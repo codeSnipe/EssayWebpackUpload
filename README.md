@@ -42,7 +42,5 @@ new JDWebpackUpload({
 })
 ```
 dist目录结构
-dist
-|- js
-|- css
-|- html
+dist/js/index.js;
+上传路径为：cdn.test.com/js/index.js
