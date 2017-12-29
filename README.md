@@ -41,6 +41,6 @@ new JDWebpackUpload({
     previewDir: 'preview.test.com'
 })
 ```
-dist目录结构
-dist/js/index.js;
+dist目录结构:dist/js/index.js;
+
 上传路径为：cdn.test.com/js/index.js
