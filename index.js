@@ -65,10 +65,10 @@ webpackUploadPlugin.prototype.apply = function(compiler) {
     })
 }
 var _default = {
-    host: "192.168.181.73",
+    host: "",
     port: "3000",
     source: "dist",
-    previewDir: "page.jd.com",
-    cdnDir: "misc.360buyimg.com"
+    previewDir: "",
+    cdnDir: ""
 }
 module.exports = EssayWebpackUpload
