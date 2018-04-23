@@ -5,8 +5,8 @@
 ### 安装
 你可以通过NPM来安装
 ```
-npm install EssayWebpackUpload -g;//来安装全局
-npm install EssayWebpackUpload --save-dev; //安装项目内
+npm install essay-webpack-upload -g;//来安装全局
+npm install essay-webpack-upload --save-dev; //安装项目内
 ```
 
 ### 使用方法
